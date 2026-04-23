@@ -640,6 +640,7 @@ section {
 /* Redes sociais: itens em linha, centralizados */
 #redes-sociais .contact-info {
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   grid-column: 1 / -1;
 }
